@@ -1,4 +1,4 @@
-public class binario {
+public class Binario {
     public static void main(String[] args) {
         int bitMask = 0x000f;
         int val = 0x2222;
